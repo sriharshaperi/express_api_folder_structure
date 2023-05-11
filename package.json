@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "to-do-list",
+  "description": "APISs available in this service.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2022/assignment-8-sriharshaneu.git"
+  },
+  "author": "Sri Harsha Peri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2022/assignment-8-sriharshaneu/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2022/assignment-8-sriharshaneu#readme"
+}
